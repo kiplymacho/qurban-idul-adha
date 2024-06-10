@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Channel+YouTube+@km7ujuh" />
+q<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Channel+YouTube+@km7ujuh" />
    <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=K+I+P+L+Y+M+A+C+H+O" />
 </p>
@@ -9,18 +9,18 @@
 
 [![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
-<h2 align="center">KETUPAT SPAM</h2>
+<h2 align="center">qurban-idul-adha</h2>
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=language&message=Bourne+Again+Shell&color=green&logo=nano">
   <img src="https://img.shields.io/static/v1?label=Framework&message=Bash+ID&color=green&logo=reddit"><br>
-  <img src="https://img.shields.io/github/forks/Bayu12345677/Ketupat-Terror?logo=git&style=social">
-  <img src="https://img.shields.io/github/license/Bayu12345677/Ketupat-Terror?color=green&logo=apache&style=flat-square">
+  <img src="https://img.shields.io/github/forks/kiplymacho/qurban-idul-adha?logo=git&style=social">
+  <img src="https://img.shields.io/github/license/kiplymacho/qurban-idul-adha?color=green&logo=apache&style=flat-square">
 </p>
 
 <br>
-Ketupat Terror merupakan sebuah program yang di buat dengan bash berfungsi untuk melakukan aksi teror pada target<br>
+qurban-idul-adha merupakan sebuah program yang di buat dengan bash berfungsi untuk melakukan aksi teror pada target<br>
 dengan bermodalkan nomor telepon target, dan tools ini sangat saya rekomendasikan untuk meneror teman kalian<br>
-  yang tidak datang ke rumah kalian di saat hari raya idul fitri :v
+  yang tidak datang ke rumah kalian di saat hari raya idul adha :v
 <br>
 
 - Disclaimer: Hanya support nomor +62
