@@ -40,9 +40,9 @@ Script qurban idul adha Dibawah Ini:
 [![script qurban idul adha](https://img.shields.io/badge/scriptiduladha-%2B-yellow.svg?style=flat)](https://https://sfile.mobi/51vdMYcHMA3)
 
 List otp
-> - sms<br>
-> - whatsapp<br>
-> - call
+- sms
+- whatsapp
+- call
 
 </p>
 <div height='45' align="center">
