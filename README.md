@@ -41,8 +41,6 @@ Script qurban idul adha Dibawah Ini:
 
 [![script qurban idul adha](https://img.shields.io/badge/scriptiduladha-%2B-yellow.svg?style=flat)](
 
-<details open><summary><code>Command Copy</code></summary>
-
 </p>
 <div height='45' align="center">
 <h2>Contact me: <br>
