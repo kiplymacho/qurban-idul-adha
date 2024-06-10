@@ -17,11 +17,9 @@
   <img src="https://img.shields.io/github/license/kiplymacho/qurban-idul-adha?color=green&logo=apache&style=flat-square">
 </p>
 
-<br>
-qurban-idul-adha merupakan sebuah program yang di buat dengan bash berfungsi untuk melakukan aksi teror pada target<br>
-dengan bermodalkan nomor telepon target, dan tools ini sangat saya rekomendasikan untuk meneror teman kalian<br>
-  yang tidak datang ke rumah kalian di saat hari raya idul adha :v
-<br>
+qurban-idul-adha merupakan sebuah program yang di buat dengan bash berfungsi untuk melakukan aksi teror pada target
+dengan bermodalkan nomor telepon target, dan tools ini sangat saya rekomendasikan untuk meneror teman kalian
+  yang tidak datang ke rumah kalian di saat hari raya idul adha
 
 - Disclaimer: Hanya support nomor +62
   
@@ -39,7 +37,7 @@ Script qurban idul adha Dibawah Ini:
 
 👇👇
 
-[![script qurban idul adha](https://img.shields.io/badge/scriptiduladha-%2B-yellow.svg?style=flat)](
+[![script qurban idul adha](https://img.shields.io/badge/scriptiduladha-%2B-yellow.svg?style=flat)](https://
 
 </p>
 <div height='45' align="center">
